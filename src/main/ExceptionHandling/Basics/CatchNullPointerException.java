@@ -1,4 +1,4 @@
-package ExceptionHandling.Basics;
+package main.ExceptionHandling.Basics;
 
 public class CatchNullPointerException {
     public static void main(String... args){

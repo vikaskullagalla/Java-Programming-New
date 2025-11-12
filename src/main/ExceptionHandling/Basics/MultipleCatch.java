@@ -1,4 +1,4 @@
-package ExceptionHandling.Basics;
+package main.ExceptionHandling.Basics;
 
 import java.util.ConcurrentModificationException;
 

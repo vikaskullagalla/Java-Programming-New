@@ -1,4 +1,4 @@
-package ExceptionHandling.CurrenciesExampleWithCustomException;
+package main.ExceptionHandling.CurrenciesExampleWithCustomException;
 
 public class AmountRunner {
     public static void main(String[] args){

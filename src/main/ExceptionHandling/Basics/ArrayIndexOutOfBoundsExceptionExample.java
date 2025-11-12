@@ -1,4 +1,4 @@
-package ExceptionHandling.Basics;
+package main.ExceptionHandling.Basics;
 
 public class ArrayIndexOutOfBoundsExceptionExample {
     public static void main(String... args){

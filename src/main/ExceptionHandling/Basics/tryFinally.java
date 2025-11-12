@@ -1,4 +1,4 @@
-package ExceptionHandling.Basics;
+package main.ExceptionHandling.Basics;
 
 public class tryFinally {
     public static void main(String... args){
